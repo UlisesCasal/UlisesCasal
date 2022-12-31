@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**UlisesCasal/UlisesCasal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻About me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📗 I’m currently studying Degree in System of Information at UnLu (University of Lujan).
+- 🌱 I’m currently learning Android development and machine learning 
+- 👯 I’m actually colaborate in proyect: Automatic Email Classification.
+## 📊 My Github stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlisesCasal&show_icons=true&theme=aura_dark)
+## Languajes and frameworks:
+- Delphi.
+- Python.
+- Java.
+- Dart (in process).
+- Flutter (in process).
+##  Additional knowledge:
+- SQL (basic).
+- HTML (basic).
+- Git.
+## Contact:
+- mail: casalulises@gmail.com
