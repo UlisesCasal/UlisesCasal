@@ -14,8 +14,11 @@
 - Dart (in process).
 - Flutter (in process).
 ##  Additional knowledge:
+- Power BI (basic).
 - SQL (basic).
 - HTML (basic).
 - Git.
+- MVC
+- Observer
 ## Contact:
 - mail: casalulises@gmail.com
