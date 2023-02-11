@@ -11,14 +11,12 @@
 - Delphi.
 - Python.
 - Java.
-- Dart (in process).
-- Flutter (in process).
 ##  Additional knowledge:
-- Power BI (basic).
-- SQL (basic).
-- HTML (basic).
+- Power BI.
+- SQL.
+- HTML.
 - Git.
-- MVC
-- Observer
+- MVC.
+- Observer.
 ## Contact:
 - mail: casalulises@gmail.com
