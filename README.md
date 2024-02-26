@@ -3,22 +3,24 @@
 ### 👨🏻‍💻About me:
 
 - 📗 I’m currently studying Degree in System of Information at UnLu (University of Luján).
-- 🌱 I’m currently learning Android Development.
-- 👯 I’m currently working as a Moodle developer and administrator at the National University of Luján.
+- 🌱 I’m currently learning Operating Systems design.
+- 👯 I’m currently working as a SAP ABAP developer at Expassio.
 ## 📊 My Github stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlisesCasal&show_icons=true&theme=aura_dark)
 ## Languajes and frameworks:
+- ABAP.
 - Delphi.
 - Python.
 - Java.
-- Kotlin
+- Javascript.
+- Kotlin.
+- React.
+- SAPUI5.
 ##  Additional knowledge:
 - SQL.
 - HTML.
 - CSS.
 - Git.
-- MVC.
-- MVVM.
 - TDD.
 - Observer.
 - Retrofit.
@@ -26,6 +28,7 @@
 - Postresql.
 - XML.
 - TCP/IP stack protocols.
+- Tailwind.
 - Linux.
 - UML.
 ## Contact:
